@@ -1,6 +1,6 @@
 package main
 
-import "xdevices/utilities/config"
+import "github.com/KogtikovNikita/utilities/config"
 
 type ServiceOneConfigManager struct {
 	config.Manager

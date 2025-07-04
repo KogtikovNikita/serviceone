@@ -1,6 +1,6 @@
 package main
 
-import "xdevices/utilities/discovery"
+import "github.com/KogtikovNikita/utilities/discovery"
 
 type ServiceOneEurekaManager struct {
 	discovery.Manager
